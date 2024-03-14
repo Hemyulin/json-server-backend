@@ -19,14 +19,60 @@
       "gameName": "Brick Battle",
       "devName": "Jorge Esquiva ",
       "screenshots": [
-        "https://github.com/Hemyulin/js-chess/raw/main/assets/img/game_screenshot1.png",
-        "https://github.com/Hemyulin/js-chess/raw/main/assets/img/game_screenshot2.png",
-        ""
+        "https://github.com/Jorgesq9/Images-Game/blob/main/pics/Brick-Battle.png?raw=true"
       ],
       "description": "This project is a simple implementation of a Brick-Breaker using JavaScript ",
       "price": "29.99",
       "category": "Retro",
       "linkToGame": "https://jorgesq9.github.io/BrickBattle/"
+    },
+    {
+      "id": 2,
+      "gameName": "Capitalism: The Game",
+      "devName": "Ben Friedman",
+      "screenshots": [
+        "https://github.com/Jorgesq9/Images-Game/blob/main/pics/Ben.png?raw=true"
+      ],
+      "description": "This is the perfect Game for the people who loves the Capitalism implemented in Javascript ",
+      "price": "39.99",
+      "category": "Strategy",
+      "linkToGame": "https://bendfriedman.github.io/Ironhack-Project-Capitalism---The-Game/"
+    },
+    {
+      "id": 3,
+      "gameName": "Tom & Jerry Game",
+      "devName": "Shaza Kashlan",
+      "screenshots": [
+        "https://github.com/Jorgesq9/Images-Game/blob/main/pics/Screenshot%202024-03-14%20164540.png?raw=true"
+      ],
+      "description": "One of Our classic Games of Tom&Jerry",
+      "price": "60.50",
+      "category": "Animation",
+      "linkToGame": "https://shaza-kashlan.github.io/tom-and-jerry_game/"
+    },
+    {
+      "id": 4,
+      "gameName": "Dune-Raider",
+      "devName": "Rob",
+      "screenshots": [
+        "https://github.com/Jorgesq9/Images-Game/blob/main/pics/Rob.png?raw=true"
+      ],
+      "description": "A clasiic Game inspired in Dune implemented in Javascript",
+      "price": "35.20",
+      "category": "Animation",
+      "linkToGame": "https://memoryman2022.github.io/Dune-Raider/"
+    },
+    {
+      "id": 5,
+      "gameName": "JestQuest",
+      "devName": "Mariana Godinho",
+      "screenshots": [
+        "https://github.com/Jorgesq9/Images-Game/blob/main/pics/Screenshot%202024-03-14%20170123.png?raw=true"
+      ],
+      "description": "A Psychological horror Game ",
+      "price": "25.90",
+      "category": "Terror",
+      "linkToGame": "https://marianagod.github.io/JestQuest/"
     }
   ]
 }
