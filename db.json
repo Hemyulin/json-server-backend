@@ -73,6 +73,24 @@
       "price": "25.90",
       "category": "Terror",
       "linkToGame": "https://marianagod.github.io/JestQuest/"
+    },
+    {
+      "gameName": "Test game",
+      "devName": "Testicle",
+      "description": "Testing tests",
+      "price": "100",
+      "category": "Testing",
+      "linkToGame": "https://store.steampowered.com/",
+      "id": 6
+    },
+    {
+      "gameName": "Test game 2",
+      "devName": "Testicle 2",
+      "description": "go to supermarket 2",
+      "price": "100",
+      "category": "Testing 2",
+      "linkToGame": "https://store.steampowered.com/",
+      "id": 7
     }
   ]
 }
