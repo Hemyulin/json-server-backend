@@ -5,9 +5,7 @@
       "gameName": "JS Chess",
       "devName": "Daniel Budiansky",
       "screenshots": [
-        "https://github.com/Hemyulin/js-chess/raw/main/assets/img/game_screenshot1.png",
-        "https://github.com/Hemyulin/js-chess/raw/main/assets/img/game_screenshot2.png",
-        ""
+        "https://github.com/Hemyulin/js-chess/raw/main/assets/img/game_screenshot1.png"
       ],
       "description": "This project is a simple implementation of a chess game using JavaScript.",
       "price": "49.99",
