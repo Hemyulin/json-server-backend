@@ -91,6 +91,15 @@
       "category": "Testing 2",
       "linkToGame": "https://store.steampowered.com/",
       "id": 7
+    },
+    {
+      "gameName": "Battle Toads",
+      "devName": "Jorge Esquiva ",
+      "description": "This project is a simple implementation of a Brick-Breaker using JavaScript ",
+      "price": "29.99",
+      "category": "Retro",
+      "linkToGame": "https://jorgesq9.github.io/BrickBattle/",
+      "id": 8
     }
   ]
 }
