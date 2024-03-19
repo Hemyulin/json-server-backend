@@ -7,8 +7,8 @@
       "screenshots": [
         "https://github.com/Hemyulin/js-chess/raw/main/assets/img/game_screenshot1.png"
       ],
-      "description": "This project is a simple implementation of a chess game using JavaScript.",
-      "price": "49.99",
+      "description": "This project is a simple implementation of a chess game using JavaScript!",
+      "price": "49.98",
       "category": "Strategy",
       "linkToGame": "https://hemyulin.github.io/js-chess/"
     },
@@ -82,22 +82,13 @@
       "id": 6
     },
     {
-      "gameName": "Test game 2",
-      "devName": "Testicle 2",
-      "description": "go to supermarket 2",
-      "price": "100",
-      "category": "Testing 2",
+      "gameName": "Dung beetle",
+      "devName": "dfbg",
+      "description": "gfnd",
+      "price": "fd5et",
+      "category": "dfgs",
       "linkToGame": "https://store.steampowered.com/",
       "id": 7
-    },
-    {
-      "gameName": "Battle Toads",
-      "devName": "Jorge Esquiva ",
-      "description": "This project is a simple implementation of a Brick-Breaker using JavaScript ",
-      "price": "29.99",
-      "category": "Retro",
-      "linkToGame": "https://jorgesq9.github.io/BrickBattle/",
-      "id": 8
     }
   ]
 }
