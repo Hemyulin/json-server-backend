@@ -5,9 +5,7 @@
       "gameName": "JS Chess",
       "devName": "Daniel Budiansky",
       "screenshots": [
-        "https://github.com/Hemyulin/js-chess/raw/main/assets/img/game_screenshot1.png",
-        "https://github.com/Hemyulin/js-chess/raw/main/assets/img/game_screenshot2.png",
-        ""
+        "https://github.com/Hemyulin/js-chess/raw/main/assets/img/game_screenshot1.png"
       ],
       "description": "This project is a simple implementation of a chess game using JavaScript.",
       "price": "49.99",
@@ -73,6 +71,23 @@
       "price": "25.90",
       "category": "Terror",
       "linkToGame": "https://marianagod.github.io/JestQuest/"
+    }
+  ],
+  "users": [
+    {
+      "username": "Jorge",
+      "password": "Alicante",
+      "id": 1
+    },
+    {
+      "username": "adri",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "username": "Daniel",
+      "password": "1234",
+      "id": 3
     }
   ]
 }
